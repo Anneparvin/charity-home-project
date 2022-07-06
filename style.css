@@ -1,0 +1,31 @@
+body {
+     font-family: 'Gulzar', serif;
+     font-family: 'Poppins', sans-serif;
+     margin: 0px;
+}
+
+
+.top-banner {
+     background-image: url(charity.jpg);
+     background-repeat: no-repeat;
+     width: 100%;
+}
+
+section {
+     display: flex;
+}
+
+.link-button {
+     text-decoration: orangered;
+     background-image: linear-gradient(orange, tomato);
+     padding: 20px 40px;
+     font-weight: bold;
+     border: 1px solid rgba(0, 0, 0, 0.1);
+     border-radius: 5px;
+     margin-top: 400px;
+}
+
+.center {
+     padding-left: 20%;
+     padding-right: 20%;
+}
